@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LanguageName</key>
+	<string>English</string>
+	<key>LanguageId</key>
+	<string>EN</string>
+	<key>stmt1</key>
+	<string>Language</string>
+	<key>stmt2</key>
+	<string>Stages per row</string>
+	<key>stmt3</key>
+	<string>Show stage name</string>
+	<key>stmt4</key>
+	<string>Setting</string>
+	<key>stmt5</key>
+	<string>Rules</string>
+	<key>stmt6</key>
+	<string>Starter</string>
+	<key>stmt7</key>
+	<string>Counter Pick</string>
+	<key>stmt8</key>
+	<string>Choose to start</string>
+	<key>stmt9</key>
+	<string>Ban 1 more stage</string>
+	<key>stmt10</key>
+	<string>Ban </string>
+	<key>stmt11</key>
+	<string> stages</string>
+	<key>stmt12</key>
+	<string>New Rule</string>
+	<key>stmt13</key>
+	<string>Rule Name</string>
+	<key>stmt14</key>
+	<string>Choose Legal Stage</string>
+	<key>stmt15</key>
+	<string>Ban Number</string>
+	<key>stmt16</key>
+	<string>Starter</string>
+	<key>stmt17</key>
+	<string>Choose Starter Stages</string>
+	<key>stmt18</key>
+	<string>Starter Ban Number</string>
+	<key>stmt19</key>
+	<string> stages</string>
+	<key>stmt20</key>
+	<string>save</string>
+	<key>stmt21</key>
+	<string>Rule name should not be empty</string>
+	<key>stmt22</key>
+	<string>OK</string>
+	<key>stmt23</key>
+	<string>Legal Stages</string>
+	<key>stmt24</key>
+	<string>Starter Stages</string>
+	<key>stmt25</key>
+	<string>Reset</string>
+	<key>stmt26</key>
+	<string>About Me</string>
+</dict>
+</plist>

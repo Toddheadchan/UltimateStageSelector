@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LanguageName</key>
+	<string>简体中文</string>
+	<key>LanguageId</key>
+	<string>CN</string>
+	<key>stmt1</key>
+	<string>语言</string>
+	<key>stmt2</key>
+	<string>每行显示数量</string>
+	<key>stmt3</key>
+	<string>显示场地名称</string>
+	<key>stmt4</key>
+	<string>设定</string>
+	<key>stmt5</key>
+	<string>规则</string>
+	<key>stmt6</key>
+	<string>初始选择</string>
+	<key>stmt7</key>
+	<string>针对选择</string>
+	<key>stmt8</key>
+	<string>选择比赛的场地</string>
+	<key>stmt9</key>
+	<string>禁1个场地</string>
+	<key>stmt10</key>
+	<string>禁</string>
+	<key>stmt11</key>
+	<string>个场地</string>
+	<key>stmt12</key>
+	<string>新规则</string>
+	<key>stmt13</key>
+	<string>名称</string>
+	<key>stmt14</key>
+	<string>选择所有比赛场地</string>
+	<key>stmt15</key>
+	<string>禁场地数量</string>
+	<key>stmt16</key>
+	<string>初始场地</string>
+	<key>stmt17</key>
+	<string>选择初始场地</string>
+	<key>stmt18</key>
+	<string>初始场地的禁止数量</string>
+	<key>stmt19</key>
+	<string>个场地</string>
+	<key>stmt20</key>
+	<string>保存</string>
+	<key>stmt21</key>
+	<string>请填入规则名称</string>
+	<key>stmt22</key>
+	<string>好的</string>
+	<key>stmt23</key>
+	<string>所有场地</string>
+	<key>stmt24</key>
+	<string>初始场地</string>
+	<key>stmt25</key>
+	<string>重置</string>
+	<key>stmt26</key>
+	<string>关于我</string>
+</dict>
+</plist>

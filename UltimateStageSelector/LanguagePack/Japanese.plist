@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LanguageName</key>
+	<string>日本語</string>
+	<key>LanguageId</key>
+	<string>JP</string>
+	<key>stmt1</key>
+	<string>言語</string>
+	<key>stmt2</key>
+	<string>各行のステージ数</string>
+	<key>stmt3</key>
+	<string>ステージの名前を見せる</string>
+	<key>stmt4</key>
+	<string>設定</string>
+	<key>stmt5</key>
+	<string>ルール</string>
+	<key>stmt6</key>
+	<string>スターター</string>
+	<key>stmt7</key>
+	<string>カウンター</string>
+	<key>stmt8</key>
+	<string>試合のステージを選択する</string>
+	<key>stmt9</key>
+	<string>1つ拒否する</string>
+	<key>stmt10</key>
+	<string></string>
+	<key>stmt11</key>
+	<string>つ拒否する</string>
+	<key>stmt12</key>
+	<string>新規ルール</string>
+	<key>stmt13</key>
+	<string>名前</string>
+	<key>stmt14</key>
+	<string>全ステージを選ぶ</string>
+	<key>stmt15</key>
+	<string>全ステージの拒否の数</string>
+	<key>stmt16</key>
+	<string>スターターステージ</string>
+	<key>stmt17</key>
+	<string>スターターステージを選ぶ</string>
+	<key>stmt18</key>
+	<string>スターターの拒否の数</string>
+	<key>stmt19</key>
+	<string>ステージ</string>
+	<key>stmt20</key>
+	<string>セーブ</string>
+	<key>stmt21</key>
+	<string>ルールの名前を入れください</string>
+	<key>stmt22</key>
+	<string>はい</string>
+	<key>stmt23</key>
+	<string>全ステージ</string>
+	<key>stmt24</key>
+	<string>スターターステージ</string>
+	<key>stmt25</key>
+	<string>リセット</string>
+</dict>
+</plist>

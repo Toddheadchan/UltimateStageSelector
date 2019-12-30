@@ -1,0 +1,1047 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict/>
+	<dict>
+		<key>picDir</key>
+		<string>Stage1.jpg</string>
+		<key>EN</key>
+		<string>Battlefield</string>
+		<key>CN</key>
+		<string>战场</string>
+		<key>JP</key>
+		<string>戦場</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage2.jpg</string>
+		<key>EN</key>
+		<string>Big Battlefield</string>
+		<key>CN</key>
+		<string>大战场</string>
+		<key>JP</key>
+		<string>大戦場</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage3.jpg</string>
+		<key>EN</key>
+		<string>Final Destination</string>
+		<key>CN</key>
+		<string>终点</string>
+		<key>JP</key>
+		<string>終点</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage4.jpg</string>
+		<key>EN</key>
+		<string>Peach&apos;s Castle</string>
+		<key>CN</key>
+		<string>桃花公主城堡 上空</string>
+		<key>JP</key>
+		<string>ピーチ城 上空</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage5.jpg</string>
+		<key>EN</key>
+		<string>Kongo Jungle</string>
+		<key>CN</key>
+		<string>康加丛林</string>
+		<key>JP</key>
+		<string>コンゴジャングル</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage6.jpg</string>
+		<key>EN</key>
+		<string>Hyrule Castle</string>
+		<key>CN</key>
+		<string>海拉鲁城堡</string>
+		<key>JP</key>
+		<string>ハイラル城</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage7.jpg</string>
+		<key>EN</key>
+		<string>Super Happy Tree</string>
+		<key>CN</key>
+		<string>超级快乐树</string>
+		<key>JP</key>
+		<string>スーパーしあわせのツリー</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage8.jpg</string>
+		<key>EN</key>
+		<string>Dream Land</string>
+		<key>CN</key>
+		<string>噗噗噗之国</string>
+		<key>JP</key>
+		<string>プププランド</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage9.jpg</string>
+		<key>EN</key>
+		<string>Saffron City</string>
+		<key>CN</key>
+		<string>金黄市</string>
+		<key>JP</key>
+		<string>ヤマブキシティ</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage10.jpg</string>
+		<key>EN</key>
+		<string>Mushroom Kingdom</string>
+		<key>CN</key>
+		<string>古老的王国</string>
+		<key>JP</key>
+		<string>いにしえの王国</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage11.jpg</string>
+		<key>EN</key>
+		<string>Princess Peach&apos;s Castle</string>
+		<key>CN</key>
+		<string>桃花公主城堡</string>
+		<key>JP</key>
+		<string>ピーチ城</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage12.jpg</string>
+		<key>EN</key>
+		<string>Rainbow Cruise</string>
+		<key>CN</key>
+		<string>彩虹巡航</string>
+		<key>JP</key>
+		<string>レインボークルーズ</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage13.jpg</string>
+		<key>EN</key>
+		<string>Kongo Falls</string>
+		<key>CN</key>
+		<string>木筏和瀑布</string>
+		<key>JP</key>
+		<string>いかだと滝</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage14.jpg</string>
+		<key>EN</key>
+		<string>Jungle Japes</string>
+		<key>CN</key>
+		<string>丛林花园</string>
+		<key>JP</key>
+		<string>ジャングルガーデン</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage15.jpg</string>
+		<key>EN</key>
+		<string>Great Bay</string>
+		<key>CN</key>
+		<string>Great Bay</string>
+		<key>JP</key>
+		<string>グレートベイ</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage16.jpg</string>
+		<key>EN</key>
+		<string>Temple</string>
+		<key>CN</key>
+		<string>神殿</string>
+		<key>JP</key>
+		<string>神殿</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage17.jpg</string>
+		<key>EN</key>
+		<string>Brinstar</string>
+		<key>CN</key>
+		<string>布林斯塔</string>
+		<key>JP</key>
+		<string>ブリンスタ</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage18.jpg</string>
+		<key>EN</key>
+		<string>Yoshi&apos;s Island (Melee)</string>
+		<key>CN</key>
+		<string>Yoshi&apos;s Island (Melee)</string>
+		<key>JP</key>
+		<string>ヨースター島</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage19.jpg</string>
+		<key>EN</key>
+		<string>Yoshi&apos;s Story</string>
+		<key>CN</key>
+		<string>耀西故事</string>
+		<key>JP</key>
+		<string>ヨッシーストーリー</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage20.jpg</string>
+		<key>EN</key>
+		<string>Fountain of Dreams</string>
+		<key>CN</key>
+		<string>Fountain of Dreams</string>
+		<key>JP</key>
+		<string>夢の泉</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage21.jpg</string>
+		<key>EN</key>
+		<string>Green Greens</string>
+		<key>CN</key>
+		<string>Green Greens</string>
+		<key>JP</key>
+		<string>グリーングリーンズ</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage22.jpg</string>
+		<key>EN</key>
+		<string>Corneria</string>
+		<key>CN</key>
+		<string>行星克尼利亚</string>
+		<key>JP</key>
+		<string>惑星コーネリア</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage23.jpg</string>
+		<key>EN</key>
+		<string>Venom</string>
+		<key>CN</key>
+		<string>行星维诺</string>
+		<key>JP</key>
+		<string>惑星ベノム</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage24.jpg</string>
+		<key>EN</key>
+		<string>Pokémon Stadium</string>
+		<key>CN</key>
+		<string>Pokémon Stadium</string>
+		<key>JP</key>
+		<string>ポケモンスタジアム</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage25.jpg</string>
+		<key>EN</key>
+		<string>Onett</string>
+		<key>CN</key>
+		<string>Onett</string>
+		<key>JP</key>
+		<string>オネット</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage26.jpg</string>
+		<key>EN</key>
+		<string>Mushroom Kingdom II</string>
+		<key>CN</key>
+		<string>古老的王国USA</string>
+		<key>JP</key>
+		<string>いにしえの王国 USA</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage27.jpg</string>
+		<key>EN</key>
+		<string>Brinstar Depths</string>
+		<key>CN</key>
+		<string>布林斯塔深部</string>
+		<key>JP</key>
+		<string>ブリンスタ深部</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage28.jpg</string>
+		<key>EN</key>
+		<string>Big Blue</string>
+		<key>CN</key>
+		<string>碧海</string>
+		<key>JP</key>
+		<string>ビッグブルー</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage29.jpg</string>
+		<key>EN</key>
+		<string>Fourside</string>
+		<key>CN</key>
+		<string>Fourside</string>
+		<key>JP</key>
+		<string>フォーサイド</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage30.jpg</string>
+		<key>EN</key>
+		<string>Delfino Plaza</string>
+		<key>CN</key>
+		<string>德尔皮克镇</string>
+		<key>JP</key>
+		<string>ドルピックタウン</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage31.jpg</string>
+		<key>EN</key>
+		<string>Mushroomy Kingdom</string>
+		<key>CN</key>
+		<string>仿佛古老的王国</string>
+		<key>JP</key>
+		<string>いにしえっぽい王国</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage32.jpg</string>
+		<key>EN</key>
+		<string>Figure-8 Circuit</string>
+		<key>CN</key>
+		<string>8字形赛道</string>
+		<key>JP</key>
+		<string>エイトクロスサーキット</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage33.jpg</string>
+		<key>EN</key>
+		<string>WarioWare, Inc.</string>
+		<key>CN</key>
+		<string>瓦力欧制造</string>
+		<key>JP</key>
+		<string>メイド イン ワリオ</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage34.jpg</string>
+		<key>EN</key>
+		<string>Bridge of Eldin</string>
+		<key>CN</key>
+		<string>奥尔汀大桥</string>
+		<key>JP</key>
+		<string>オルディン大橋</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage35.jpg</string>
+		<key>EN</key>
+		<string>Norfair</string>
+		<key>CN</key>
+		<string>诺尔飞亚</string>
+		<key>JP</key>
+		<string>ノルフェア</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage36.jpg</string>
+		<key>EN</key>
+		<string>Frigate Orpheon</string>
+		<key>CN</key>
+		<string>驱逐舰奥飞昂</string>
+		<key>JP</key>
+		<string>フリゲートオルフェオン</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage37.jpg</string>
+		<key>EN</key>
+		<string>Yoshi&apos;s Island</string>
+		<key>CN</key>
+		<string>耀西岛</string>
+		<key>JP</key>
+		<string>ヨッシーアイランド</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage38.jpg</string>
+		<key>EN</key>
+		<string>Halberd</string>
+		<key>CN</key>
+		<string>Halberd</string>
+		<key>JP</key>
+		<string>戦艦ハルバード</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage39.jpg</string>
+		<key>EN</key>
+		<string>Lylat Cruise</string>
+		<key>CN</key>
+		<string>莱拉特巡航</string>
+		<key>JP</key>
+		<string>ライラットクルーズ</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage40.jpg</string>
+		<key>EN</key>
+		<string>Pokémon Stadium 2</string>
+		<key>CN</key>
+		<string>Pokémon Stadium 2</string>
+		<key>JP</key>
+		<string>ポケモンスタジアム2</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage41.jpg</string>
+		<key>EN</key>
+		<string>Port Town Aero Dive</string>
+		<key>CN</key>
+		<string>港口镇 高空俯冲</string>
+		<key>JP</key>
+		<string>ポートタウン エアロダイブ</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage42.jpg</string>
+		<key>EN</key>
+		<string>Castle Siege</string>
+		<key>CN</key>
+		<string>攻城战</string>
+		<key>JP</key>
+		<string>攻城戦</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage43.jpg</string>
+		<key>EN</key>
+		<string>Distant Planet</string>
+		<key>CN</key>
+		<string>某个星球</string>
+		<key>JP</key>
+		<string>とある星</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage44.jpg</string>
+		<key>EN</key>
+		<string>Smashville</string>
+		<key>CN</key>
+		<string>任天村</string>
+		<key>JP</key>
+		<string>すま村</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage45.jpg</string>
+		<key>EN</key>
+		<string>New Pork City</string>
+		<key>CN</key>
+		<string>New Pork City</string>
+		<key>JP</key>
+		<string>ニューポークシティ</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage46.jpg</string>
+		<key>EN</key>
+		<string>Summit</string>
+		<key>CN</key>
+		<string>峰顶</string>
+		<key>JP</key>
+		<string>頂上</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage47.jpg</string>
+		<key>EN</key>
+		<string>Skyworld</string>
+		<key>CN</key>
+		<string>Skyworld</string>
+		<key>JP</key>
+		<string>天空界</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage48.jpg</string>
+		<key>EN</key>
+		<string>Shadow Moses Island</string>
+		<key>CN</key>
+		<string>Shadow Moses Island</string>
+		<key>JP</key>
+		<string>シャドーモセス島</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage49.jpg</string>
+		<key>EN</key>
+		<string>Luigi&apos;s Mansion</string>
+		<key>CN</key>
+		<string>路易吉洋馆</string>
+		<key>JP</key>
+		<string>ルイージマンション</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage50.jpg</string>
+		<key>EN</key>
+		<string>Pirate Ship</string>
+		<key>CN</key>
+		<string>海盗船</string>
+		<key>JP</key>
+		<string>海賊船</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage51.jpg</string>
+		<key>EN</key>
+		<string>Spear Pillar</string>
+		<key>CN</key>
+		<string>天冠山 枪之柱</string>
+		<key>JP</key>
+		<string>テンガンざん やりのはしら</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage52.jpg</string>
+		<key>EN</key>
+		<string>75 m</string>
+		<key>CN</key>
+		<string>75m</string>
+		<key>JP</key>
+		<string>75m</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage53.jpg</string>
+		<key>EN</key>
+		<string>Mario Bros.</string>
+		<key>CN</key>
+		<string>马力欧兄弟</string>
+		<key>JP</key>
+		<string>マリオブラザーズ</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage54.jpg</string>
+		<key>EN</key>
+		<string>Hanenbow</string>
+		<key>CN</key>
+		<string>Hanenbow</string>
+		<key>JP</key>
+		<string>エレクトロプランクトン</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage55.jpg</string>
+		<key>EN</key>
+		<string>Green Hill Zone</string>
+		<key>CN</key>
+		<string>Green Hill Zone</string>
+		<key>JP</key>
+		<string>グリーンヒルゾーン</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage56.jpg</string>
+		<key>EN</key>
+		<string>3D Land</string>
+		<key>CN</key>
+		<string>3D乐园</string>
+		<key>JP</key>
+		<string>3Dランド</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage57.jpg</string>
+		<key>EN</key>
+		<string>Golden Plains</string>
+		<key>CN</key>
+		<string>原野</string>
+		<key>JP</key>
+		<string>野原</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage58.jpg</string>
+		<key>EN</key>
+		<string>Paper Mario</string>
+		<key>CN</key>
+		<string>纸片马力欧</string>
+		<key>JP</key>
+		<string>ペーパーマリオ</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage59.jpg</string>
+		<key>EN</key>
+		<string>Gerudo Valley</string>
+		<key>CN</key>
+		<string>格鲁德之谷</string>
+		<key>JP</key>
+		<string>ゲルドの谷</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage60.jpg</string>
+		<key>EN</key>
+		<string>Spirit Train</string>
+		<key>CN</key>
+		<string>蒸汽火车</string>
+		<key>JP</key>
+		<string>汽車</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage61.jpg</string>
+		<key>EN</key>
+		<string>Dream Land GB</string>
+		<key>CN</key>
+		<string>噗噗噗之国GB</string>
+		<key>JP</key>
+		<string>プププランド GB</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage62.jpg</string>
+		<key>EN</key>
+		<string>Unova Pokémon League</string>
+		<key>CN</key>
+		<string>合众宝可梦联盟</string>
+		<key>JP</key>
+		<string>イッシュポケモンリーグ</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage63.jpg</string>
+		<key>EN</key>
+		<string>Prism Tower</string>
+		<key>CN</key>
+		<string>棱镜塔</string>
+		<key>JP</key>
+		<string>プリズムタワー</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage64.jpg</string>
+		<key>EN</key>
+		<string>Mute City SNES</string>
+		<key>CN</key>
+		<string>寂静城市SFC</string>
+		<key>JP</key>
+		<string>ミュートシティ SFC</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage65.jpg</string>
+		<key>EN</key>
+		<string>Magicant</string>
+		<key>CN</key>
+		<string>Magicant</string>
+		<key>JP</key>
+		<string>マジカント</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage66.jpg</string>
+		<key>EN</key>
+		<string>Arena Ferox</string>
+		<key>CN</key>
+		<string>菲利亚斗技场</string>
+		<key>JP</key>
+		<string>フェリア闘技場</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage67.jpg</string>
+		<key>EN</key>
+		<string>Reset Bomb Forest</string>
+		<key>CN</key>
+		<string>Reset Bomb Forest</string>
+		<key>JP</key>
+		<string>初期化爆弾の森</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage68.jpg</string>
+		<key>EN</key>
+		<string>Tortimer Island</string>
+		<key>CN</key>
+		<string>Tortimer Island</string>
+		<key>JP</key>
+		<string>コトブキランド</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage69.jpg</string>
+		<key>EN</key>
+		<string>Balloon Fight</string>
+		<key>CN</key>
+		<string>打气球</string>
+		<key>JP</key>
+		<string>バルーンファイト</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage70.jpg</string>
+		<key>EN</key>
+		<string>Living Room</string>
+		<key>CN</key>
+		<string>狗狗客厅</string>
+		<key>JP</key>
+		<string>子犬がいるリビング</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage71.jpg</string>
+		<key>EN</key>
+		<string>Find Mii</string>
+		<key>CN</key>
+		<string>瞬缘传说</string>
+		<key>JP</key>
+		<string>すれちがい伝説</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage72.jpg</string>
+		<key>EN</key>
+		<string>Tomodachi Life</string>
+		<key>CN</key>
+		<string>Tomodachi Life</string>
+		<key>JP</key>
+		<string>トモダチコレクション</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage73.jpg</string>
+		<key>EN</key>
+		<string>PictoChat 2</string>
+		<key>CN</key>
+		<string>涂鸦聊天2</string>
+		<key>JP</key>
+		<string>ピクトチャット2</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage74.jpg</string>
+		<key>EN</key>
+		<string>Mushroom Kingdom U</string>
+		<key>CN</key>
+		<string>马力欧U世界</string>
+		<key>JP</key>
+		<string>マリオUワールド</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage75.jpg</string>
+		<key>EN</key>
+		<string>Mario Galaxy</string>
+		<key>CN</key>
+		<string>马力欧银河</string>
+		<key>JP</key>
+		<string>マリオギャラクシー</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage76.jpg</string>
+		<key>EN</key>
+		<string>Mario Circuit</string>
+		<key>CN</key>
+		<string>马力欧赛道</string>
+		<key>JP</key>
+		<string>マリオサーキット</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage77.jpg</string>
+		<key>EN</key>
+		<string>Skyloft</string>
+		<key>CN</key>
+		<string>空中楼阁</string>
+		<key>JP</key>
+		<string>スカイロフト</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage78.jpg</string>
+		<key>EN</key>
+		<string>The Great Cave Offensive</string>
+		<key>CN</key>
+		<string>洞窟大作战</string>
+		<key>JP</key>
+		<string>洞窟大作戦</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage79.jpg</string>
+		<key>EN</key>
+		<string>Kalos Pokémon League</string>
+		<key>CN</key>
+		<string>卡洛斯宝可梦联盟</string>
+		<key>JP</key>
+		<string>カロスポケモンリーグ</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage80.jpg</string>
+		<key>EN</key>
+		<string>Coliseum</string>
+		<key>CN</key>
+		<string>斗技场</string>
+		<key>JP</key>
+		<string>闘技場</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage81.jpg</string>
+		<key>EN</key>
+		<string>Flat Zone X</string>
+		<key>CN</key>
+		<string>平面世界X</string>
+		<key>JP</key>
+		<string>フラットゾーンX</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage82.jpg</string>
+		<key>EN</key>
+		<string>Palutena&apos;s Temple</string>
+		<key>CN</key>
+		<string>Palutena&apos;s Temple</string>
+		<key>JP</key>
+		<string>エンジェランド</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage83.jpg</string>
+		<key>EN</key>
+		<string>Gamer</string>
+		<key>CN</key>
+		<string>Gamer</string>
+		<key>JP</key>
+		<string>ゲーマー</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage84.jpg</string>
+		<key>EN</key>
+		<string>Garden of Hope</string>
+		<key>CN</key>
+		<string>再会花园</string>
+		<key>JP</key>
+		<string>再会の花園</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage85.jpg</string>
+		<key>EN</key>
+		<string>Town and City</string>
+		<key>CN</key>
+		<string>村庄与街道</string>
+		<key>JP</key>
+		<string>村と街</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage86.jpg</string>
+		<key>EN</key>
+		<string>Wii Fit Studio</string>
+		<key>CN</key>
+		<string>Wii Fit健身房</string>
+		<key>JP</key>
+		<string>Wii Fit スタジオ</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage87.jpg</string>
+		<key>EN</key>
+		<string>Boxing Ring</string>
+		<key>CN</key>
+		<string>特设擂台</string>
+		<key>JP</key>
+		<string>特設リング</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage88.jpg</string>
+		<key>EN</key>
+		<string>Gaur Plain</string>
+		<key>CN</key>
+		<string>Gaur Plain</string>
+		<key>JP</key>
+		<string>ガウル平原</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage89.jpg</string>
+		<key>EN</key>
+		<string>Duck Hunt</string>
+		<key>CN</key>
+		<string>打猎</string>
+		<key>JP</key>
+		<string>ダックハント</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage90.jpg</string>
+		<key>EN</key>
+		<string>Wrecking Crew</string>
+		<key>CN</key>
+		<string>Wrecking Crew</string>
+		<key>JP</key>
+		<string>レッキングクルー</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage91.jpg</string>
+		<key>EN</key>
+		<string>Pilotwings</string>
+		<key>CN</key>
+		<string>Pilotwings</string>
+		<key>JP</key>
+		<string>パイロットウイングス</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage92.jpg</string>
+		<key>EN</key>
+		<string>Wuhu Island</string>
+		<key>CN</key>
+		<string>乌富岛</string>
+		<key>JP</key>
+		<string>ウーフーアイランド</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage93.jpg</string>
+		<key>EN</key>
+		<string>Windy Hill Zone</string>
+		<key>CN</key>
+		<string>Windy Hill Zone</string>
+		<key>JP</key>
+		<string>ウィンディヒル</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage94.jpg</string>
+		<key>EN</key>
+		<string>Wily Castle</string>
+		<key>CN</key>
+		<string>Wily Castle</string>
+		<key>JP</key>
+		<string>ワイリー基地</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage95.jpg</string>
+		<key>EN</key>
+		<string>PAC-LAND</string>
+		<key>CN</key>
+		<string>PAC-LAND</string>
+		<key>JP</key>
+		<string>パックランド</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage96.jpg</string>
+		<key>EN</key>
+		<string>Super Mario Maker</string>
+		<key>CN</key>
+		<string>Super Mario Maker</string>
+		<key>JP</key>
+		<string>スーパーマリオメーカー</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage97.jpg</string>
+		<key>EN</key>
+		<string>Suzaku Castle</string>
+		<key>CN</key>
+		<string>朱雀城</string>
+		<key>JP</key>
+		<string>朱雀城</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage98.jpg</string>
+		<key>EN</key>
+		<string>Midgar</string>
+		<key>CN</key>
+		<string>Midgar</string>
+		<key>JP</key>
+		<string>ミッドガル</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage99.jpg</string>
+		<key>EN</key>
+		<string>Umbra Clock Tower</string>
+		<key>CN</key>
+		<string>安柏拉的时钟塔</string>
+		<key>JP</key>
+		<string>アンブラの時計塔</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage100.jpg</string>
+		<key>EN</key>
+		<string>New Donk City Hall</string>
+		<key>CN</key>
+		<string>纽敦市政厅</string>
+		<key>JP</key>
+		<string>ニュードンク市庁舎</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage101.jpg</string>
+		<key>EN</key>
+		<string>Great Plateau Tower</string>
+		<key>CN</key>
+		<string>初始之塔</string>
+		<key>JP</key>
+		<string>始まりの塔</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage102.jpg</string>
+		<key>EN</key>
+		<string>Moray Towers</string>
+		<key>CN</key>
+		<string>Moray Towers</string>
+		<key>JP</key>
+		<string>タチウオパーキング</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage103.jpg</string>
+		<key>EN</key>
+		<string>Dracula&apos;s Castle</string>
+		<key>CN</key>
+		<string>Dracula&apos;s Castle</string>
+		<key>JP</key>
+		<string>ドラキュラ城</string>
+	</dict>
+	<dict>
+		<key>picDir</key>
+		<string>Stage104.jpg</string>
+		<key>EN</key>
+		<string>Memetos</string>
+		<key>CN</key>
+		<string>印象空间</string>
+		<key>JP</key>
+		<string>メメントス</string>
+	</dict>
+</array>
+</plist>
